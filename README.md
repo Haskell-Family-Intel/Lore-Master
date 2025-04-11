@@ -70,7 +70,7 @@ The result? An AI that *understands your world*, *remembers your characters*, an
 
 ## 📬 Get in Touch
 For licensing inquiries, private demos, or collaboration:
-📧 skyline4756@gmail.com
+📧 HaskellFamilyIntel@protonmail.com
 
 GitHub Home: [Haskell-Family-Intel](https://github.com/Haskell-Family-Intel)
 
