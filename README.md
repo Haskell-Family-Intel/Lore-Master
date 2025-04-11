@@ -32,16 +32,6 @@ It’s not just memory. It’s cognitive architecture.
 
 ---
 
-## ⚙️ System Components
-- `LorMDB` → Long-term structured lore memory
-- `LorMIndex` → Shorthand compression + recall mapping
-- `LorMRS` → RuleSet handler to determine what, when, and how to recall
-- `LorMSM` → System monitor and integrity validator
-
-Each narrative element — characters, places, events, relationships — is modular, compressible, and retrievable by name, type, or context.
-
----
-
 ## ✍️ How LorM Was Born
 > *“I was just trying to keep my characters straight in a crossover fanfic.”*
 
@@ -75,18 +65,6 @@ You can:
 - Integrate structured narrative cards into any LLM-based tool
 
 The result? An AI that *understands your world*, *remembers your characters*, and *builds on your lore* like a trusted co-author.
-
----
-
-## 📁 Directory Overview
-```
-├── LICENSE               # Licensing details (strict commercial rules)
-├── README                # This document
-├── LorMDB                # Lore database (characters, arcs, events)
-├── LorMIndex             # Indexed and compressed retrieval map
-├── LorMRS                # RuleSet engine for context decision-making
-├── LorMSM                # System monitor for validation and integrity
-```
 
 ---
 
