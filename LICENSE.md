@@ -75,5 +75,5 @@ LorM is a proprietary creative system, built for precision narrative memory. Whi
 
 ---
 
-**Contact for licensing:** skyline4756@gmail.com
+**Contact for licensing:** HaskellFamilyIntel@protonmail.com
 **Project Home:** https://github.com/Haskell-Family-Intel/Lore-Master
