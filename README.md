@@ -23,20 +23,20 @@ Unlike traditional RAG systems, LorM emulates **human memory behavior**, with:
 | Human Cognition       | LorM Equivalent                          |
 |-----------------------|------------------------------------------|
 | Hippocampus (STM)     | In-memory recall + current session cache |
-| Long-Term Memory      | `LorMDB.json` archive with indexed schemas|
-| Prefrontal Cortex     | `LorMRS.py` rule engine for active context |
-| Memory Consolidation  | `LorMSM.py` cross-validation and update logic |
-| Compression Heuristics| `AiQ-style` shorthand + hybrid storage |
+| Long-Term Memory      | archive with indexed schemas|
+| Prefrontal Cortex     | rule engine for active context |
+| Memory Consolidation  | cross-validation and update logic |
+| Compression Heuristics| shorthand + hybrid storage |
 
 It’s not just memory. It’s cognitive architecture.
 
 ---
 
 ## ⚙️ System Components
-- `LorMDB.json` → Long-term structured lore memory
-- `LorMIndex.json` → Shorthand compression + recall mapping
-- `LorMRS.py` → RuleSet handler to determine what, when, and how to recall
-- `LorMSM.py` → System monitor and integrity validator
+- `LorMDB` → Long-term structured lore memory
+- `LorMIndex` → Shorthand compression + recall mapping
+- `LorMRS` → RuleSet handler to determine what, when, and how to recall
+- `LorMSM` → System monitor and integrity validator
 
 Each narrative element — characters, places, events, relationships — is modular, compressible, and retrievable by name, type, or context.
 
@@ -80,19 +80,19 @@ The result? An AI that *understands your world*, *remembers your characters*, an
 
 ## 📁 Directory Overview
 ```
-├── LICENSE.md            # Licensing details (strict commercial rules)
-├── README.md             # This document
-├── LorMDB.json           # Lore database (characters, arcs, events)
-├── LorMIndex.json        # Indexed and compressed retrieval map
-├── LorMRS.py             # RuleSet engine for context decision-making
-├── LorMSM.py             # System monitor for validation and integrity
+├── LICENSE               # Licensing details (strict commercial rules)
+├── README                # This document
+├── LorMDB                # Lore database (characters, arcs, events)
+├── LorMIndex             # Indexed and compressed retrieval map
+├── LorMRS                # RuleSet engine for context decision-making
+├── LorMSM                # System monitor for validation and integrity
 ```
 
 ---
 
 ## 📬 Get in Touch
 For licensing inquiries, private demos, or collaboration:
-📧 haskellfamilyintel@protonmail.com
+📧 skyline4756@gmail.com
 
 GitHub Home: [Haskell-Family-Intel](https://github.com/Haskell-Family-Intel)
 
