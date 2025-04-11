@@ -1,4 +1,4 @@
-# LorM Philosophy: Why Simplicity is Revolutionary
+# LorM Philosophy
 
 *By Haskell Family Intel*
 
