@@ -1,5 +1,5 @@
 # LorM Creator License v1.0
-Copyright (c) 2024 Haskell Family Intel
+Copyright (c) 2024 Haskell Family Intel. All Rights Reserved. 
 
 ---
 
