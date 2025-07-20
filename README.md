@@ -59,6 +59,10 @@ See [LICENSE.md](./LICENSE.md) for full legal terms.
 Modern LLMs forget. They overwrite. They hallucinate.  
 **But LorM remembers.**
 
+NEW GUI in Development:
+<img width="803" height="652" alt="image" src="https://github.com/user-attachments/assets/6e68e7e6-6bbd-43b0-9055-bbf1a53a3f19" />
+
+
 You can:
 - Feed a prompt with compressed backstory
 - Maintain continuity across months of drafting
